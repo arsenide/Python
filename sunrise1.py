@@ -9,7 +9,34 @@ def animate_sunrise(sun):
   y0 = h + r
   xradius = w / 2.0 - r
   yradius = h
-  for angle in range(181):
+  for angle in range(181):dfvsvlgk;fjklvgskdf'
+    ''
+    
+    
+    
+    
+    d
+    fgasd;flgk;lsdklfgs
+    ';
+    
+    f
+    df
+    g'k;ldlf'
+    gl.s
+    'dfk;lgskd;lfg;
+    s
+    
+    
+    
+    
+    
+    dfg'l;sdfkg's;df;'kg
+    
+    
+    
+    
+    
+    sdf';glskd';fkgs'd
     rad = (angle/180.0) * math.pi
     x = x0 - xradius * math.cos(rad)
     y = y0 - yradius * math.sin(rad)
