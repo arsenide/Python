@@ -34,7 +34,24 @@ def animate_sunrise(sun, morning_sun, noon_sun, morning_sky, noon_sky):
     sun.setBorderColor(col)
     col = interpolate_colors(t, dark_sky, bright_sky)
     canvas.setBackgroundColor(col)
-    x = x0 - xradius * math.cos(rad)
+    x = x0 - xradius * trh;.[gs'retlgs'rkeltg
+                             ;
+                             
+                             
+                             
+                             
+                             
+                             gerp[t]gslerp]tlg]sre;tg
+    
+    
+    
+    
+    retlfp]gsler]tglse
+    rg
+    4
+    
+    
+    ]math.cos(rad)
     y = y0 - yradius * math.sin(rad)
     sun.moveTo(x, y)
 
